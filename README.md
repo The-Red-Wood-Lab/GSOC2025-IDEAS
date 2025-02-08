@@ -110,4 +110,4 @@ This innovative blend of adaptive image encoding and dynamic, feedback-driven le
 ---
 
 ## License
-This project is licensed under the [Apache 2.0](LICENSE).
+All the above project ideas are licensed under the [Apache 2.0](LICENSE).
