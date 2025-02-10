@@ -48,8 +48,8 @@ Social media is a double-edged sword—while it connects us, it also floods our 
 - **Estimated Timeline**: 175 to 350 hours (depending on feature scope and complexity)
 
 ## Mentor 
+- **ORGADMIN** - [Abhiman Panwar](https://github.com/Kroszborg)
 - **BACKEND** - [Abhinav Singh](https://github.com/Abhinavexists)
-- **FRONTEND** - [Abhiman Panwar](https://github.com/Kroszborg)
 
 ---
 
